@@ -16,11 +16,10 @@
 :star: My "better" projects:
 - **Saki-san** - Advanced AI chatbot.
 - [Rioter Boter (aka. Facer)](https://faceincase.github.io/FacerBot.github.io/) - Advanced League of Legends statistics/tracker client.
-- [Knife Clipper](https://google.com/) - Script to cut out all knife kills in series of game clips.
-- [Vampire Survivors.PY](https://google.com/) - Vampire Survivors clone made in Python.
-- [Economier](https://google.com/) - Valorant script to track individulal & teams economy and give suggestions.
-- [Minecraft GeoGuessr Script.JS](https://google.com/) - Basic client to validate user position & their guess. Allows to play GeoGuessr in Minecraft for servers.
-- [Frontier of Hell](https://google.com/)
+- **Knife Clipper** - Script to cut out all knife kills in series of game clips.
+- **Vampire Survivors.PY** - Vampire Survivors clone made in Python.
+- **Economier** - Valorant script to track individulal & teams economy and give suggestions.
+- **Minecraft GeoGuessr Script.JS** - Basic client to validate user position & their guess. Allows to play GeoGuessr in Minecraft for servers.
 
 
 
