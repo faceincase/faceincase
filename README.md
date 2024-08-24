@@ -14,7 +14,7 @@
 
 
 :star: My "better" projects:
-- **Saki-san** - Advanced AI chatbot.
+- [Saki-san](https://github.com/faceincase/FaceGPT) - Advanced AI chatbot/tool.
 - [Rioter Boter (aka. Facer)](https://faceincase.github.io/FacerBot.github.io/) - Advanced League of Legends statistics/tracker client.
 - **Knife Clipper** - Script to cut out all knife kills in series of game clips.
 - **Vampire Survivors.PY** - Vampire Survivors clone made in Python.
