@@ -13,7 +13,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 
-:star: My projects:
+:star: My "better" projects:
 - [Saki-san](https://google.com/) - Advanced AI chatbot.
 - [Rioter Boter (aka. Facer)](https://google.com/) - Advanced League of Legends statistics/tracker client.
 - [Knife Clipper](https://google.com/) - Script to cut out all knife kills in series of game clips.
