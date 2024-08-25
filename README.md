@@ -15,6 +15,7 @@
 :star: My "better" projects:
 - [Saki-san](https://github.com/faceincase/FaceGPT) - Advanced AI chatbot/tool.
 - [Rioter Boter (aka. Facer)](https://faceincase.github.io/FacerBot.github.io/) - Advanced League of Legends statistics/tracker client.
+- [Coding Stop (TikTok)](https://www.tiktok.com/@codingstop) - 16k+ followers fun project to learn basic video editing.
 - **Knife Clipper** - Script to cut out all knife kills in series of game clips.
 - **Vampire Survivors.PY** - Vampire Survivors clone made in Python.
 - **Economier** - Valorant script to track individulal & teams economy and give suggestions.
