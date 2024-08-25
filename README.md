@@ -12,8 +12,10 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
+<br>
 > [!IMPORTANT]  
 > Crucial information necessary for users to succeed.
+<br>
 
 :star: My "better" projects:
 - [Saki-san](https://github.com/faceincase/FaceGPT) - Advanced AI chatbot/tool.
