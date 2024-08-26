@@ -16,7 +16,7 @@
 - **[Saki-san](https://github.com/faceincase/FaceGPT)** - Advanced AI chatbot/tool.
 - **[Rioter Boter (aka. Facer)](https://faceincase.github.io/FacerBot.github.io/)** - Advanced League of Legends statistics/tracker client.
 - **[Coding Stop (TikTok)](https://www.tiktok.com/@codingstop)** - 16k+ followers, fun project to learn basic video editing.
-- **[Gta V Empty Session]([https://a.a.a/](https://github.com/faceincase/Gta-5-Sessioner))** - Python script to empty an Gta 5 Online session.
+- **[Gta V Empty Session](https://github.com/faceincase/Gta-5-Sessioner)** - Python script to empty an Gta 5 Online session.
 - **[Knife Clipper](https://github.com/faceincase/Knife-Clipper)** - Script to cut out all knife kills in series of game clips.
 - **Vampire Survivors.PY** - Vampire Survivors clone made in Python.
 - **Economier** - Valorant script to track individulal & teams economy and give suggestions.
