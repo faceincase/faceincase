@@ -22,7 +22,7 @@
 - **Economier** - Valorant script to track individulal & teams economy and give suggestions.
 - **Minecraft GeoGuessr Script.JS** - Basic client to validate user position & their guess. Allows to play GeoGuessr in Minecraft for servers.
 
-
+# My gists & some tutorials [**here**](https://gist.github.com/faceincase)
 
 <picture>
   <source
