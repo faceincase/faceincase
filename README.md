@@ -24,7 +24,7 @@
 
 :star: My [**Github Gists**](https://gist.github.com/faceincase)
 - [**Pendrive Fixer**](https://gist.github.com/faceincase/2965270fe82c384840f69f1e647a33cd) - Easy-to-follow guide to fix bricked pendrive. Can fix wrong size, remove write/read protection, reverse bootable pendrives.
-
+- [**Commander**](https://gist.github.com/faceincase/f9e709a9e0519c8977f38bd3b244978e) - Some commands I've found useful.
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
