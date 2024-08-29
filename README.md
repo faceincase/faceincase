@@ -22,7 +22,7 @@
 - **Economier** - Valorant script to track individulal & teams economy and give suggestions.
 - **Minecraft GeoGuessr Script.JS** - Basic client to validate user position & their guess. Allows to play GeoGuessr in Minecraft for servers.
 
-## :star: You can see my gists and some tutorials on [**Github Gists**](https://gist.github.com/faceincase)
+## :star: My [**Github Gists**](https://gist.github.com/faceincase)
 - [**Pendrive Fixer**](https://gist.github.com/faceincase/2965270fe82c384840f69f1e647a33cd) - Easy-to-follow guide to fix bricked pendrive. Can fix wrong size, remove write/read protection, reverse bootable pendrives.
 
 <picture>
