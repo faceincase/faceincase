@@ -12,7 +12,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-:star: My "better" projects:
+## :star: My "better" projects:
 - **[Saki-san](https://github.com/faceincase/FaceGPT)** - Advanced AI chatbot/tool.
 - **[Rioter Boter (aka. Facer)](https://faceincase.github.io/FacerBot.github.io/)** - Advanced League of Legends statistics/tracker client.
 - **[Coding Stop (TikTok)](https://www.tiktok.com/@codingstop)** - 16k+ followers, fun project to learn basic video editing.
@@ -22,7 +22,7 @@
 - **Economier** - Valorant script to track individulal & teams economy and give suggestions.
 - **Minecraft GeoGuessr Script.JS** - Basic client to validate user position & their guess. Allows to play GeoGuessr in Minecraft for servers.
 
-# My gists & some tutorials [**here**](https://gist.github.com/faceincase)
+## :star: You can see my gists and some tutorials on [**Github Gists**](https://gist.github.com/faceincase).
 
 <picture>
   <source
