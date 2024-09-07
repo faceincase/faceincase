@@ -57,7 +57,7 @@
 
 <p align="center">
  
-<kbd> <br> [![Perks](https://skillicons.dev/icons?i=discord)](https://github.com/faceincase) Join my [Discord](https://discord.gg/pvBwFYtRN5)! <br> </kbd>
+<kbd> <br> [![Perks](https://skillicons.dev/icons?i=discord)](https://discord.gg/pvBwFYtRN5) Join my [Discord](https://discord.gg/pvBwFYtRN5)! <br> </kbd>
  
 </p>
   
