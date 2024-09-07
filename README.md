@@ -57,7 +57,9 @@
 
 <p align="center">
  
-<kbd> <br> Join my [Discord](https://discord.gg/pvBwFYtRN5)! <br> [![Perks](https://skillicons.dev/icons?i=discord)](https://discord.gg/pvBwFYtRN5) </kbd>
+<kbd> <br> Join my [Discord](https://discord.gg/pvBwFYtRN5)! <br> </kbd>
+
+[![Perks](https://skillicons.dev/icons?i=discord)](https://discord.gg/pvBwFYtRN5)
  
 </p>
   
