@@ -55,7 +55,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faceincase&locale=en&hide_title=true&layout=compact&card_width=300&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </details>
 
-<div align="center">
+<p align="center">
 <kbd> <br> [![Perks](https://skillicons.dev/icons?i=discord)](https://github.com/faceincase) Join my [Discord](https://discord.gg/pvBwFYtRN5)! <br> </kbd>
-</div>
+</p>
   
