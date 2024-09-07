@@ -56,5 +56,6 @@
 </details>
 
 
+[![Perks](https://skillicons.dev/icons?i=discord)](https://github.com/faceincase)
 <kbd> <br> Join my [Discord](https://discord.gg/pvBwFYtRN5)! <br> </kbd>
   
