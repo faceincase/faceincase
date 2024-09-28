@@ -20,6 +20,7 @@
 - **[Face Notes](https://github.com/faceincase/Face-Notes)** - Simple and "lightweight" notes taking [app](https://faceincase.github.io/Face-Notes/face_notes.html).
 - **[Coding Stop (TikTok)](https://www.tiktok.com/@codingstop)** - 16k+ followers, fun project to learn basic video editing.
 - **[Gta V Sessioner](https://github.com/faceincase/Gta-5-Sessioner)** - Python script to empty an Gta 5 Online session.
+- **[Minecraft Plugins](https://github.com/faceincase/Minecraft-Plugins/)** - My Minecraft Plugins
 - **[Knife Clipper](https://github.com/faceincase/Knife-Clipper)** - Script to cut out all knife kills in series of game clips.
 - [**ASCII IT**](https://github.com/faceincase/ASCII-IT) - Image to Ascii Art/Image converter
 - **Vampire Survivors.PY** - Vampire Survivors clone made in Python.
