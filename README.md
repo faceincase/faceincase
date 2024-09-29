@@ -61,9 +61,7 @@
 
 <p align="center">
  
-<kbd> <br> Join my [Discord](https://discord.gg/pvBwFYtRN5)! <br> </kbd>
+<kbd> <br> You can message me on [**Discord**](https://discord.com/users/340508826388398080) <br> </kbd>
 
-[![Perks](https://skillicons.dev/icons?i=discord)](https://discord.gg/pvBwFYtRN5)
- 
 </p>
   
