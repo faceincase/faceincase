@@ -1,6 +1,8 @@
 ### Okai. 👋
 
-![image](https://github.com/user-attachments/assets/96368a45-1de2-4ae6-9a58-478fbea1a4c4)
+<img src="https://github.com/user-attachments/assets/96368a45-1de2-4ae6-9a58-478fbea1a4c4" width="150" style="filter: brightness(0.1);">
+
+<br>
 
 > [!CAUTION]
 > I am most likely one of the worst developers that ever walked on this planet.
