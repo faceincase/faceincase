@@ -1,7 +1,5 @@
 ### Okai. 👋
 
-![bf pls](https://github.com/user-attachments/assets/32e85e7c-c5d6-41ba-ad0f-1d75dd73aa12)
-
 > [!CAUTION]
 > I am most likely one of the worst developers that ever walked on this planet.
 > 
