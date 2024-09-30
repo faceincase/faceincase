@@ -5,7 +5,7 @@
 > 
 [![Perks](https://skillicons.dev/icons?i=cs,java,py,js,html,css,markdown)](https://github.com/faceincase)
 
-> Algorithms & APIs are my strong side.
+> Algorithms & APIs are my strong sides.
 > 
 > Huge experience in Riot Games and Discord API's + a lot of other smaller platforms/games.
 > 
