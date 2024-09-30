@@ -7,7 +7,7 @@
 
 > Algorithms & APIs are my strong sides.
 > 
-> Huge experience in Riot Games and Discord API's + a lot of other smaller platforms/games.
+> Huge experience in Riot Games and Discord API's + a lot of other platforms.
 > 
 > Written numerous integrations, text-based games, applications, fun small projects, few bigger projects.
 >
