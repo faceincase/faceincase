@@ -5,6 +5,14 @@
 > 
 [![Perks](https://skillicons.dev/icons?i=cs,java,py,js,html,css,markdown)](https://github.com/faceincase)
 
+> I like coding. Algorithms & APIs are my strong side.
+> 
+> Huge experience in Riot Games and Discord API's + a lot of other smaller platforms/games.
+> 
+> Written numerous integrations, text-based games, applications, fun small projects, few bigger projects.
+>
+> Coding is not my career, I do it as a hobby.
+
 <!--  OLD DISPLAY OF PERKS
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -23,7 +31,7 @@
 - **[Gta V Sessioner](https://github.com/faceincase/Gta-5-Sessioner)** - Python script to empty an Gta 5 Online session.
 - **[Minecraft Plugins](https://github.com/faceincase/Minecraft-Plugins/)** - My Minecraft Plugins
 - **[Knife Clipper](https://github.com/faceincase/Knife-Clipper)** - Script to cut out all knife kills in series of game clips.
-- [**ASCII IT**](https://github.com/faceincase/ASCII-IT) - Image to Ascii Art/Image converter
+- **[ASCII IT](https://github.com/faceincase/ASCII-IT)** - Image to Ascii Art/Image converter
 - **Vampire Survivors.PY** - Vampire Survivors clone made in Python.
 - **Economier** - Valorant script to track individulal & teams economy and give suggestions.
 - **Minecraft GeoGuessr Script.JS** - Basic client to validate user position & their guess. Allows to play GeoGuessr in Minecraft for servers.
