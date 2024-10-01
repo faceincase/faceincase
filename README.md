@@ -1,8 +1,5 @@
 ### Okai. 👋
 
-> [!CAUTION]
-> I am most likely one of the worst developers that ever walked on this planet.
-> 
 [![Perks](https://skillicons.dev/icons?i=cs,java,py,js,html,css,markdown)](https://github.com/faceincase)
 
 > Algorithms & APIs are my strong sides.
