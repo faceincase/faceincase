@@ -1,3 +1,6 @@
+
+![devleoper 2](https://github.com/user-attachments/assets/56997633-4c92-4819-857a-2cb325604969)
+
 ### Okai. 👋
 
 [![Perks](https://skillicons.dev/icons?i=cs,java,py,js,html,css,markdown)](https://github.com/faceincase)
