@@ -3,7 +3,9 @@
 
 ### Okai. 👋
 
+<!--
 [![Perks](https://skillicons.dev/icons?i=cs,java,py,js,html,css,markdown)](https://github.com/faceincase)
+-->
 
 > Algorithms & APIs are my strong sides.
 > 
