@@ -23,7 +23,8 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 -->
 
-:star: My "better" projects:
+<img src="https://github.com/user-attachments/assets/4101e8e9-1161-4b94-b1c4-ad565761fdbd" width=400>
+
 - **[Rioter Boter (aka. Facer)](https://faceincase.github.io/FacerBot.github.io/)** - Advanced League of Legends statistics/tracker client. <sup><sub>[Discontinued]</sub></sup>
 - **[Face Notes](https://github.com/faceincase/Face-Notes)** - Simple and "lightweight" notes taking [app](https://faceincase.github.io/Face-Notes/face_notes.html).
 - **[Face Tasks](https://github.com/faceincase/Face-Tasks)** - Simple and "lightweight" tasks saving [app](https://faceincase.github.io/Face-Tasks/face_tasks.html).
