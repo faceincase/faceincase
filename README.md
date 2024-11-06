@@ -1,5 +1,5 @@
 
-![devleoper 2](https://github.com/user-attachments/assets/56997633-4c92-4819-857a-2cb325604969)
+<img src="https://github.com/user-attachments/assets/56997633-4c92-4819-857a-2cb325604969" width=600>
 
 ### Okai. 👋
 
