@@ -1,5 +1,5 @@
 
-<img src="https://github.com/user-attachments/assets/56997633-4c92-4819-857a-2cb325604969" width=600>
+<img src="https://github.com/user-attachments/assets/56997633-4c92-4819-857a-2cb325604969" width=400>
 
 ### Okai. 👋
 
@@ -25,7 +25,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 -->
 
-<img src="https://github.com/user-attachments/assets/4101e8e9-1161-4b94-b1c4-ad565761fdbd" width=400>
+<img src="https://github.com/user-attachments/assets/4101e8e9-1161-4b94-b1c4-ad565761fdbd" width=200>
 
 - **[Rioter Boter (aka. Facer)](https://faceincase.github.io/FacerBot.github.io/)** - Advanced League of Legends statistics/tracker client. <sup><sub>[Discontinued]</sub></sup>
 - **[Face Notes](https://github.com/faceincase/Face-Notes)** - Simple and "lightweight" notes taking [app](https://faceincase.github.io/Face-Notes/face_notes.html).
