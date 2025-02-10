@@ -6,10 +6,11 @@
 <!--
 [![Perks](https://skillicons.dev/icons?i=cs,java,py,js,html,css,markdown)](https://github.com/faceincase)
 -->
-
+> I ran an army of discord bots.
+> 
 > Algorithms & APIs are my strong sides.
 > 
-> Huge experience in Riot Games and Discord API's + a lot of other platforms.
+> Huge experience in Discord and Riot Games API's + a lot of other platforms.
 > 
 > Written numerous integrations, text-based games, applications, fun small projects, few bigger projects.
 >
