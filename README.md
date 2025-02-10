@@ -29,6 +29,7 @@
 <img src="https://github.com/user-attachments/assets/4101e8e9-1161-4b94-b1c4-ad565761fdbd" width=300>
 
 - **[Rioter Boter (aka. Facer)](https://faceincase.github.io/FacerBot.github.io/)** - Advanced League of Legends statistics/tracker client. <sup><sub>[Discontinued]</sub></sup>
+- **[Ticket Activity Manager](https://github.com/faceincase/Ticket-Activity-Manager)** - Ticket Tracker for **Discord.js** written in JavaScript
 - **[Face Notes](https://github.com/faceincase/Face-Notes)** - Simple and "lightweight" notes taking [app](https://faceincase.github.io/Face-Notes/face_notes.html).
 - **[Face Tasks](https://github.com/faceincase/Face-Tasks)** - Simple and "lightweight" tasks saving [app](https://faceincase.github.io/Face-Tasks/face_tasks.html).
 - **[Coding Stop (TikTok)](https://www.tiktok.com/@codingstop)** - 16k+ followers, fun project to learn basic video editing.
