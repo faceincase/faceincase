@@ -13,8 +13,6 @@
 > Extensive experience with the Discord API, as well as a wide range of AI APIs, including the Anthropic (Claude) API, OpenAI API, few games such as Riot Games API and many other platforms.
 > 
 > Written numerous integrations, text-based games, applications, fun small projects, few bigger projects.
->
-> Coding is not my career, I do it as a hobby.
 
 <!--  OLD DISPLAY OF PERKS
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
